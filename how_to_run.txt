@@ -1,0 +1,11 @@
+Run 
+
+$ LOCAL=1 ./ad-server
+
+to enable localhost
+
+otherwise
+
+$ ./ad-server
+
+for runing automatically with public ip

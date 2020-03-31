@@ -9,3 +9,20 @@ otherwise
 $ ./ad-server
 
 for runing automatically with public ip
+
+
+Open a browser
+
+use
+ip:port/node/<N>
+
+where N is an unique integer
+
+Note:
+for running source file 
+$ node file.js
+
+for running executable 
+$ executable
+
+
